@@ -11,7 +11,15 @@ config_version=3
 [application]
 
 config/name="CRT Screen Shader"
+run/main_scene="res://main.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=320
+window/size/height=200
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
 
 [rendering]
 
