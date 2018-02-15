@@ -7,10 +7,10 @@ path="res://.import/platformer.png-89982e424e2ca9e162ad9c3ee7e3a2e0.stex"
 [deps]
 
 source_file="res://platformer.png"
-source_md5="ccde3e5bf21246702e930688c75d6bf6"
+source_md5="0f404e6e8a7f0b19dc1128dc6f426397"
 
 dest_files=[ "res://.import/platformer.png-89982e424e2ca9e162ad9c3ee7e3a2e0.stex" ]
-dest_md5="9175d70b11599f1a9aa63c210bacb333"
+dest_md5="0b603330c7038b3fdd2aedc3bfe8d06d"
 
 [params]
 
