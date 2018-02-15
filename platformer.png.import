@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ultima.png-22c4dd9412ccbf93698b375b19c33590.stex"
+path="res://.import/platformer.png-89982e424e2ca9e162ad9c3ee7e3a2e0.stex"
 
 [deps]
 
-source_file="res://ultima.png"
-source_md5="ffa940480ed617ee38b86fb4bf29c95d"
+source_file="res://platformer.png"
+source_md5="ccde3e5bf21246702e930688c75d6bf6"
 
-dest_files=[ "res://.import/ultima.png-22c4dd9412ccbf93698b375b19c33590.stex" ]
-dest_md5="1a88c6ca53f94a3bfe09da5c08d8fb6f"
+dest_files=[ "res://.import/platformer.png-89982e424e2ca9e162ad9c3ee7e3a2e0.stex" ]
+dest_md5="9175d70b11599f1a9aa63c210bacb333"
 
 [params]
 

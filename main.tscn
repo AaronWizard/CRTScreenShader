@@ -1,11 +1,11 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://ultima.png" type="Texture" id=1]
+[ext_resource path="res://platformer.png" type="Texture" id=1]
 [ext_resource path="res://shaders/crt_material.tres" type="Material" id=2]
 
 [node name="main" type="Node" index="0"]
 
-[node name="ultima" type="Sprite" parent="." index="0"]
+[node name="platformer" type="Sprite" parent="." index="0"]
 
 texture = ExtResource( 1 )
 centered = false
