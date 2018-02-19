@@ -71,7 +71,7 @@ void fragment()
 {
 	float PI = 3.141592653589;
 
-	vec2 input_size = vec2(textureSize(SCREEN_TEXTURE, 0));//vec2(1, 1) / SCREEN_PIXEL_SIZE;
+	vec2 input_size = vec2(textureSize(SCREEN_TEXTURE, 0));
 	if (min(input_size.x, input_size.y) > screen_base_size)
 	{
 		float mult = screen_base_size / min(input_size.x, input_size.y);
