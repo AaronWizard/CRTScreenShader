@@ -11,7 +11,7 @@ Based on the [*CRT-Easymode* algorithm](https://github.com/libretro/glsl-shaders
 
 ## How to use
 
-Create a node that covers your scene, like a ColorRect, and assign it a ShaderMaterial that uses the CRT shader code.
+Create a node that covers your scene, like a ColorRect, and assign it a ShaderMaterial that uses the CRT shader code. You will likely want this node to go in a CanvasLayer, like if you're using a Camera in the scene.
 
 The shader's parameters are taken from the original CRT-Easymode shader, but with the addition of *Screen Base Size*. The most important parameters are:
 
